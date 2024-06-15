@@ -1,6 +1,6 @@
 {
-  "name": "strapi-plugin-import-export-entries",
-  "version": "1.23.1",
+  "name": "strapi-plugin-import-export-entries-2",
+  "version": "1.23.3",
   "description": "Import/Export data from and to your database in just few clicks.",
   "strapi": {
     "name": "import-export-entries",
@@ -69,15 +69,9 @@
   "peerDependencies": {
     "@strapi/strapi": "^4.10.5"
   },
-  "author": {
-    "name": "Baboo",
-    "url": "https://github.com/Baboo7"
-  },
+  "author": "Adishare (https://github.com/adishare)",
   "maintainers": [
-    {
-      "name": "Baboo",
-      "url": "https://github.com/Baboo7"
-    }
+    "Adishare (https://github.com/adishare)"
   ],
   "engines": {
     "node": ">=14.19.1 <=20.x.x",
@@ -95,11 +89,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Baboo7/strapi-plugin-import-export-entries.git"
+    "url": "git+https://github.com/adishare/strapi-plugin-import-export-entries.git"
   },
   "bugs": {
-    "url": "https://github.com/Baboo7/strapi-plugin-import-export-entries/issues"
+    "url": "https://github.com/adishare/strapi-plugin-import-export-entries/issues"
   },
-  "homepage": "https://github.com/Baboo7/strapi-plugin-import-export-entries#readme",
+  "homepage": "https://github.com/adishare/strapi-plugin-import-export-entries#readme",
   "license": "MIT"
 }
